@@ -1,0 +1,6 @@
+Package: uf-starshiprs
+Version: 1.1.1
+Architecture: amd64
+Maintainer: UFlinux
+Depends: zsh | bash
+Description: starship.rs packaged for UFlinux
