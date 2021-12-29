@@ -1,0 +1,10 @@
+Package: uf-dashtopanel
+Version: 42-4
+Architecture: all
+Maintainer: UFlinux
+Installed-Size: 1499
+Depends: dconf-gsettings-backend | gsettings-backend, gnome-shell (>= 3.18), gnome-shell-extension-prefs
+Section: gnome
+Priority: optional
+Homepage: https://github.com/jderose9/dash-to-panel
+Description: Dash to Panel maintained by UFlinux
