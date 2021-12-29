@@ -1,0 +1,6 @@
+Package: uf-desktop
+Version: 0.1
+Architecture: all
+Depends: uf-ufplymouththeme, uf-fonts, uf-dashtopanel, uf-desktopiconsng, uf-starshiprs, uf-uf-helper, uf-simplelaunchers, uf-arcmenu
+Maintainer: UFlinux
+Description: UFlinux desktop meta package
