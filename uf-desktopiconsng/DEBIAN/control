@@ -1,0 +1,10 @@
+Package: uf-desktopiconsng
+Version: 33-1
+Architecture: all
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 543
+Depends: dconf-gsettings-backend | gsettings-backend, gnome-shell (>= 3.38), gjs, nautilus (>= 3.38), xdg-desktop-portal
+Section: gnome
+Priority: optional
+Homepage: https://gitlab.com/rastersoft/desktop-icons-ng
+Description: desktop icon support for GNOME Shell (packaged by UFlinux)
