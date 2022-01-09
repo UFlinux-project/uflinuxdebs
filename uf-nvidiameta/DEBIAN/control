@@ -1,0 +1,6 @@
+Package: uf-nvidiameta
+Version: 1.0.0
+Architecture: amd64
+Maintainer: UFlinux
+Depends: nvidia-driver-495, nvidia-settings, libvdpau, vulkan-tools, firmware-misc-nonfree
+Description: Package that installs NVIDIA driver and configures system to work without issues with it.

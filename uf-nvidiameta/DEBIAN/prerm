@@ -1,0 +1,4 @@
+#!/bin/sh
+rm -f /etc/default/grub.d/uf-nvidia.cfg
+rm -f /etc/modprobe.d/nvidia.conf
+/usr/sbin/update-grub
