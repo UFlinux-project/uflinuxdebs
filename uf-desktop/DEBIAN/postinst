@@ -1,8 +1,9 @@
 #!/bin/sh
-echo 'PRETTY_NAME="UFlinux bullseye Beta 2"
+echo 'PRETTY_NAME="UFlinux bullseye Beta 3"
 NAME="UFlinux"
 VERSION_ID="11"
 VERSION="11 (bullseye)"
 VERSION_CODENAME=bullseye
 ID=uflinux
 HOME_URL="https://uflinux.eu/"' > /etc/os-release
+ID_LIKE=debian
